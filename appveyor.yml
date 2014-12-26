@@ -1,8 +1,4 @@
 build_script:
-  - dir C:\Qt
-  - dir C:\Qt\5.4
-  - dir C:\Qt\5.3
-  - dir C:\Qt\Tools
   - dir "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\VC\\redist"
   - dir "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\VC\\redist\\1041"
 
